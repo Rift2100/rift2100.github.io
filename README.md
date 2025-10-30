@@ -4,4 +4,9 @@ Technologies excites me, my interests are Computer Hardware, AI and Programming.
 
 I am here to contribute to the community.
 
-Do checkout the girhub project below.
+Do checkout the github project below.
+
+
+1. Software program to process Computer Hardware - GPU utilization performance metrics and plot the data in charts for further analysis.
+   
+2. Program to process notes handwritten in local Indian languages and convert them to readable English, thus helping rural communities to communicate effectively with Government organizations and banks and raise their complaints and requests.
