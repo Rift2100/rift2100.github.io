@@ -4,7 +4,8 @@ Technologies excites me, my interests are Computer Hardware, AI and Programming.
 
 I am here to contribute to the community.
 
-Do checkout the github project below.
+Do checkout my github project below. 
+Stars, Pull Requests and comments are welcome.
 
 
 1. Software program to process Computer Hardware - GPU utilization performance metrics and plot the data in charts for further analysis.
