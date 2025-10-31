@@ -15,7 +15,7 @@ Stars, Pull Requests and comments are welcome.
 
    ![CPU_GRAPH](https://github.com/Rift2100/cpugpu_utilization/blob/main/image.png?raw=true)
    
-2. Application for citizens to communicate effectively with Government to raise their complaints and requests. Using this application user can raise the complaint by typing in the input boxes, upload images of hand-written letter or directly speaking to the application. Information content like name, phone number, address etc. are collected from the provided content and ticket is raised against the specific department without manual intervention. 
+2. Application for citizens to communicate effectively with Government to raise their complaints and requests. Using this application user can raise the complaint by typing in the input boxes, upload images of hand-written letter or directly speaking to the application. Information content like name, phone number, address etc. are collected from the provided content, which is used to raise the complaint.
    
    [Consumer Complaint Manager](https://github.com/Rift2100/AutoComplaintCategorisation_TS)
 
