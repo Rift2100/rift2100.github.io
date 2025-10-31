@@ -9,13 +9,13 @@ Stars, Pull Requests and comments are welcome.
 
 
 1. Software program to process Computer Hardware - CPU/GPU utilization performance metrics.
-   Collect data in real time and plot in charts for further analysis. This helps provide the GUI to real time resource utilization for CPUs and GPUs in any server (linux/mac/windows), without any external dependency.
+   Collect data in real time and plots it in charts for further analysis. This helps show real time resource utilization for CPUs and GPUs in any server (linux/mac/windows), without any external dependencies
    
    [CPU_GPU_VISUALIZER](https://github.com/Rift2100/cpugpu_utilization)
 
    ![CPU_GRAPH](https://github.com/Rift2100/cpugpu_utilization/blob/main/image.png?raw=true)
    
-2. Application for citizens to communicate effectively with Government to raise their complaints and requests. Using this application user can raise the complaint by typing in the input boxes, upload images of hand-written letter or directly speaking to the application. Information content like name, phone number, address etc. are collected from the provided content, which is used to raise the complaint.
+2. Application for citizens to communicate effectively with Government to raise their complaints and requests. Using this application users can raise their complaints by typing in their requests, upload images of hand-written letters or directly speak to the application. Information like name, phone number, address etc. are collected from the provided content, which is used to raise the complaint.
    
    [Consumer Complaint Manager](https://github.com/Rift2100/AutoComplaintCategorisation_TS)
 
