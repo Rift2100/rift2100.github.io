@@ -18,4 +18,4 @@ Stars, Pull Requests and comments are welcome.
    
    [Consumer Complaint Manager](https://github.com/Rift2100/AutoComplaintCategorisation_TS)
    
-   ![Complaint Capture Scrren](https://github.com/Rift2100/AutoComplaintCategorisation_TS/blob/main/image.png?raw=true)
+   ![Complaint Capture Scrren](https://github.com/Rift2100/AutoComplaintCategorisation_TS/blob/main/cc_image.png)
